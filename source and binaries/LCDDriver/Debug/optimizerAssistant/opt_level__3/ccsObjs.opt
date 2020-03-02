@@ -1,1 +1,0 @@
-"./ST7735.obj" "./main.obj" "./spi.obj" "../lnk_msp430fr5994.cmd" -llibmpu_init.a -llibmath.a -llibc.a 
